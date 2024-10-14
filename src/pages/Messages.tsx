@@ -104,7 +104,7 @@ export const Messages = (props: Props) => {
           <Button label="Select all" onClick={() => setSelectedMessages(messages.map(message => message.id))} className="mr-2" />
         }
         {unreadCount > 0 &&
-          <Button label="refresh" onClick={() => refetch()} className="mr-2" />
+          <Button label="Refresh" onClick={() => refetch()} className="mr-2" />
         }
         <Button label="Settings" onClick={() => setInSettings(true)} className="mr-2" />
       </NavBar>

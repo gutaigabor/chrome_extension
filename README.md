@@ -4,6 +4,10 @@
 
 ./TASK.md
 
+## Video recording
+
+https://www.veed.io/view/5daead67-110c-41f4-8b82-2373b789b3a0?panel=share
+
 ## Installation
 
 ### Mock server
